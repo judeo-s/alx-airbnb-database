@@ -1,4 +1,4 @@
-![ERD](https://github.com/judeo-s/alx-airbnb-database/blob/master/ERD/airbnb_clone_project_ER_Diagram.drawio.png)
+![ERD](airbnb_clone_project_ER_Diagram.drawio.png)
 
 **Entities and Relationships:**
 
