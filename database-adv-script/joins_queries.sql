@@ -26,7 +26,7 @@ SELECT
     Review.comment,
     Review.created_at AS review_date
 FROM Property
-LEFT JOIN Review ON Property.id = Review.property_id;
+LEFT JOIN Review ON Property.id = Review.property_id ORDER BY rating;
 
 
 
